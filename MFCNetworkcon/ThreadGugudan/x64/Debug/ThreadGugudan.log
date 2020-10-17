@@ -1,0 +1,5 @@
+﻿  Thread.cpp
+C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCNetworkcon\ThreadGugudan\Thread.cpp(7,19): warning C4311: '형식 캐스트': 'void *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCNetworkcon\ThreadGugudan\Thread.cpp(7,19): warning C4302: '형식 캐스트': 'void *'에서 'int'(으)로 잘립니다.
+C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCNetworkcon\ThreadGugudan\Thread.cpp(18,49): warning C4312: '형식 캐스트': 'int'에서 더 큰 'void *'(으)로의 변환입니다.
+  ThreadGugudan.vcxproj -> C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCNetworkcon\x64\Debug\ThreadGugudan.exe

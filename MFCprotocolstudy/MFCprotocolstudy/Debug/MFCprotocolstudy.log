@@ -1,0 +1,4 @@
+﻿  MFCprotocolstudyDlg.cpp
+C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCprotocolstudy\MFCprotocolstudy\MFCprotocolstudyDlg.h(28,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCprotocolstudy\MFCprotocolstudy\MFCprotocolstudyDlg.h(42,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MFCprotocolstudy.vcxproj -> C:\Users\직업능력개발훈련 401호_8번\source\repos\MFCprotocolstudy\Debug\MFCprotocolstudy.exe
